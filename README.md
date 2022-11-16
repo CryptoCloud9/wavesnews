@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://i.ibb.co/rd09x9b/wnlogo4x.png" alt="WavesNews Logo" height="100" />
     <br/>
-    Waves News Blog
+    News
 </h1>
 
 <p align="center">
